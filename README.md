@@ -34,7 +34,7 @@ C:\Users\<your-user>\nltk_data
 **Run app and provide a valid YouTube video ID for the input**
 
 ```
-python app.y
+python app.py
 ```
 
 **Example usage**
